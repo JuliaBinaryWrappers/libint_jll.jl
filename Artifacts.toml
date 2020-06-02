@@ -1,0 +1,97 @@
+[[libint]]
+arch = "aarch64"
+git-tree-sha1 = "41a40108af6e74c048559b8be140c1bf11ec3b64"
+libc = "glibc"
+os = "linux"
+
+    [[libint.download]]
+    sha256 = "d6f57a6869e27aa510acd9adaa9ed5cbcda1041145da5513e8b388a996c24124"
+    url = "https://github.com/JuliaBinaryWrappers/libint_jll.jl/releases/download/libint-v2.7.0+0/libint.v2.7.0.aarch64-linux-gnu.tar.gz"
+[[libint]]
+arch = "aarch64"
+git-tree-sha1 = "2534e518cf7d5dcc62695a5d302c0cdd6cf7d47a"
+libc = "musl"
+os = "linux"
+
+    [[libint.download]]
+    sha256 = "f8aec4da44a531b1bd3db8c6905f7df7e07084db48246398b13e8d02128d82b4"
+    url = "https://github.com/JuliaBinaryWrappers/libint_jll.jl/releases/download/libint-v2.7.0+0/libint.v2.7.0.aarch64-linux-musl.tar.gz"
+[[libint]]
+arch = "armv7l"
+git-tree-sha1 = "acbf1751fdc0a50d201744ecf40f316ea830cd5d"
+libc = "glibc"
+os = "linux"
+
+    [[libint.download]]
+    sha256 = "72c394c25142288f3707bbd446772fbf24a2c3df2266d30220da60a1f28d9b4b"
+    url = "https://github.com/JuliaBinaryWrappers/libint_jll.jl/releases/download/libint-v2.7.0+0/libint.v2.7.0.armv7l-linux-gnueabihf.tar.gz"
+[[libint]]
+arch = "armv7l"
+git-tree-sha1 = "aa406f474b4f739ef165669bd8b3fc5404ef5a09"
+libc = "musl"
+os = "linux"
+
+    [[libint.download]]
+    sha256 = "6dd42943732cbc0631fd0b7275f7ca8c2db5ada5b6196d07c831c66bd7a52142"
+    url = "https://github.com/JuliaBinaryWrappers/libint_jll.jl/releases/download/libint-v2.7.0+0/libint.v2.7.0.armv7l-linux-musleabihf.tar.gz"
+[[libint]]
+arch = "i686"
+git-tree-sha1 = "75beae458a4f6ba78a12eb5a0942cdb8135e7a12"
+libc = "glibc"
+os = "linux"
+
+    [[libint.download]]
+    sha256 = "00f4af5ece5edb96269b8f24f8f5b861dd99d53a774d37ef9756a53c4653c9fc"
+    url = "https://github.com/JuliaBinaryWrappers/libint_jll.jl/releases/download/libint-v2.7.0+0/libint.v2.7.0.i686-linux-gnu.tar.gz"
+[[libint]]
+arch = "i686"
+git-tree-sha1 = "988fd45d817b6c014b196c3d3fee41334a2ffe60"
+libc = "musl"
+os = "linux"
+
+    [[libint.download]]
+    sha256 = "7f287642a11e15c532265140f997819a9ef6df66302d5a7e7aff2dac31d0389e"
+    url = "https://github.com/JuliaBinaryWrappers/libint_jll.jl/releases/download/libint-v2.7.0+0/libint.v2.7.0.i686-linux-musl.tar.gz"
+[[libint]]
+arch = "powerpc64le"
+git-tree-sha1 = "689544293581c7c17f9f4c00c98afa532a946a5a"
+libc = "glibc"
+os = "linux"
+
+    [[libint.download]]
+    sha256 = "a579725e215160ea8a0e5c110c00f82f1022924b282df9aa6acb15684aab6400"
+    url = "https://github.com/JuliaBinaryWrappers/libint_jll.jl/releases/download/libint-v2.7.0+0/libint.v2.7.0.powerpc64le-linux-gnu.tar.gz"
+[[libint]]
+arch = "x86_64"
+git-tree-sha1 = "f1e4795fbec3fb6d8c009193181d95d6db7eb3ad"
+os = "macos"
+
+    [[libint.download]]
+    sha256 = "5bc4b5afc9584f24c4b1c9998933a0692278d0075625a224644470847c16a33e"
+    url = "https://github.com/JuliaBinaryWrappers/libint_jll.jl/releases/download/libint-v2.7.0+0/libint.v2.7.0.x86_64-apple-darwin14.tar.gz"
+[[libint]]
+arch = "x86_64"
+git-tree-sha1 = "102529506b62a991eeacee8e81c5eb01a560459e"
+libc = "glibc"
+os = "linux"
+
+    [[libint.download]]
+    sha256 = "273ba6c1bd4d9387b91175a24dd96645a404952555e719ba5b2834fc22d650db"
+    url = "https://github.com/JuliaBinaryWrappers/libint_jll.jl/releases/download/libint-v2.7.0+0/libint.v2.7.0.x86_64-linux-gnu.tar.gz"
+[[libint]]
+arch = "x86_64"
+git-tree-sha1 = "93620067acffd90b6007956efda2bc8f83f077d5"
+libc = "musl"
+os = "linux"
+
+    [[libint.download]]
+    sha256 = "3fa7be77771019e6b9193a5d384a33a96859d1c5d1a70107899d5e89a9f6bd5a"
+    url = "https://github.com/JuliaBinaryWrappers/libint_jll.jl/releases/download/libint-v2.7.0+0/libint.v2.7.0.x86_64-linux-musl.tar.gz"
+[[libint]]
+arch = "x86_64"
+git-tree-sha1 = "dc6a3b8cdfbc556e8a1b8fb62747d868521fc4c7"
+os = "freebsd"
+
+    [[libint.download]]
+    sha256 = "acbc00b8aa64f27ac577ee0e92e535b2e3576a8937f392a92004475217659a23"
+    url = "https://github.com/JuliaBinaryWrappers/libint_jll.jl/releases/download/libint-v2.7.0+0/libint.v2.7.0.x86_64-unknown-freebsd11.1.tar.gz"
